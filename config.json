@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervave",
+        "uuid": 9063338,
+        "checksum": "xrz9f0s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
